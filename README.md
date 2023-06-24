@@ -31,3 +31,15 @@ Smart-Ring opensource project
    * IMU: ICM-20948 (QFN 24)
 * Additional:
    * Vibro feedback: ??? TODO ???
+
+## Development
+
+For PoC I used DA14531-00FXDEVKT-U (UM-B-125) - which is a small usb devboard with embedded debug
+chip (uart/jtag), have spi flash to not disturb OTP ROM and safely play with firmware, just enough
+to start. For sure you will need SDK for DA14531, you can easily get it on the manufacturer site.
+
+Must read docs:
+* [About devboard](https://www.renesas.com/us/en/document/mat/um-b-125-user-manual-da14531-usb-development-kit-hardware)
+* [SDK6 tutorial](https://lpccs-docs.renesas.com/Tutorial_SDK6/introduction.html)
+* [SDK6 peripherals tutorial](https://lpccs-docs.renesas.com/da145xx_tutorial_sdk6_peripherals/introduction.html)
+* [SDK6 debugging](https://lpccs-docs.renesas.com/tutorial_da145xx_debugging_techniques/index.html)
