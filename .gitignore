@@ -1,0 +1,7 @@
+# DA14531 SDK folder
+/sdk
+
+# Eclipse build output, settings & debug logs
+**/Eclipse/DA*
+**/Eclipse/.settings
+**/Eclipse/jlink.log
