@@ -17,7 +17,7 @@ Smart-Ring opensource project
 
 * SOC:
    * MCU: DA14531-OG2 (WLCSP 17)
-   * BT Antenna: ??? TODO ??? 2.4 BLE PCB
+   * BT Antenna: ANT3216LL00R2400A (SMD Chip)
 * Power:
    * Wireless charger: LTC4124 (LQFN 12)
    * Wireless charger antenna: ???
@@ -30,7 +30,7 @@ Smart-Ring opensource project
    * Button: KMT071NGJLHS (IP68)
    * IMU: ICM-20948 (QFN 24)
 * Additional:
-   * Vibro feedback: ??? TODO ???
+   * Vibro feedback: [EM custom](models/vibro_device-mk1.blend)
 
 ## Development
 
