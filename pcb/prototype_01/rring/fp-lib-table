@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/home/user/Work/state-of-the-art/rring/pcb/libs/footprints.pretty")(options "")(descr ""))
+)
